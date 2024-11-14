@@ -20,7 +20,7 @@ const
   ParticleIterationCount = 120;
   ParticleGlowSize = 3;
   ParticleSwapDirectionRarity = 20;
-  BlurIterationCount = 2500;
+  BlurIterationCount = 2400;
 
   ParticleRValue = 7;
   ParticleGValue = 9;
@@ -28,7 +28,7 @@ const
 
   FadeRValue = 7;
   FadeGValue = 4;
-  FadeBValue = 2;
+  FadeBValue = 3;
 
   ParticleGlowRValue = 3;
   ParticleGlowGValue = 4;
